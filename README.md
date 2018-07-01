@@ -33,3 +33,4 @@ Ejemplo
 * Crear funcion main: Escribir psvm + <kbd>Tab</kbd>
 * Ejecutar proyecto: <kbd>F6</kbd>
 * Ejecutar archivo: <kbd>Shift</kbd> + <kbd>F6</kbd>
+* Comentar/Descomentar: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>
