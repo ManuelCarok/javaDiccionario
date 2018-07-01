@@ -30,3 +30,4 @@ Ejemplo
 
 * Ordenar codigo: <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
 * Creacion de estructura de una clase: <kbd>Alt</kbd> + <kbd>Insert</kbd> 
+* Crear funcion main: Escribir psvm + <kbd>Tab</kbd>
