@@ -12,6 +12,14 @@ System.out.println("Hello, World");
 
 # JAVA
 
+## Packages
+
+Para la creacion de un packages el nombre debe tener los siguiente organizacion pais.empresa.uso.vo
+
+Ejemplo
+
+`cl.google.correo.vo`
+
 ## MySQL
 
 # JSP
