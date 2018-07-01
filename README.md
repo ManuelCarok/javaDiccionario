@@ -20,6 +20,4 @@ System.out.println("Hello, World");
 
 ## Comandos
 
-Ordenar codigo
-
-<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
+Ordenar codigo <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
