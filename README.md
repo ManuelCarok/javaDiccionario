@@ -5,10 +5,10 @@ System.out.println("Hello, World");
 # Indice
 
 1. [JAVA](#java)
-  * [MySQL](#mysql)
+   * [MySQL](#mysql)
 2. [JSP](#jsp)
 3. [Netbeans](#netbeans)
-  * [Comados](#comandos)
+   * [Comados](#comandos)
 
 # JAVA
 
@@ -20,4 +20,4 @@ System.out.println("Hello, World");
 
 ## Comandos
 
-Ordenar codigo <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
+* Ordenar codigo: <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
