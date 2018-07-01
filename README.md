@@ -29,3 +29,4 @@ Ejemplo
 ## Comandos
 
 * Ordenar codigo: <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
+* Creacion de estructura de una clase: <kbd>Alt</kbd> + <kbd>Insert</kbd> 
