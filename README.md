@@ -31,6 +31,7 @@ Ejemplo
 * Ordenar codigo: <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
 * Creacion de estructura de una clase: <kbd>Alt</kbd> + <kbd>Insert</kbd> 
 * Crear funcion main: Escribir psvm + <kbd>Tab</kbd>
+* Crear System.out.println:  Escribir sout + <kbd>Tab</kbd>
 * Ejecutar proyecto: <kbd>F6</kbd>
 * Ejecutar archivo: <kbd>Shift</kbd> + <kbd>F6</kbd>
 * Comentar/Descomentar: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>
