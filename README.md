@@ -34,3 +34,4 @@ Ejemplo
 * Ejecutar proyecto: <kbd>F6</kbd>
 * Ejecutar archivo: <kbd>Shift</kbd> + <kbd>F6</kbd>
 * Comentar/Descomentar: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>
+* Ver parametros: <kbd>Ctrl</kbd> + <kbd>P</kbd>
